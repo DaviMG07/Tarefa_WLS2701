@@ -97,11 +97,7 @@ Este projeto tem como objetivo consolidar o entendimento do uso de interrupçõe
 
 ![gif](demonstracao.gif)
 
-<video width="320" height="240" controls>
-  <source src="demonstracao.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
-
+[Assista ao vídeo](https://raw.githubusercontent.com/DaviMG07/Tarefa_WLS2701/main/demonstracao.mp4)
 
 ## Considerações Finais
 
